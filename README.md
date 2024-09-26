@@ -2,4 +2,4 @@
 
 Some text in README file
 
-And some documentattion
+And some documentation
